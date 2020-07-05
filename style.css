@@ -7,15 +7,15 @@ body{
 
 #card{
     background: white;
-    margin: 100px 300px 100px 300px;
+    margin: 300px 500px 300px 500px;
     text-align: center;
     padding: 10px;
 }
 
 #card img{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    border-radius: 20%;
 }
 
 hr{
@@ -25,4 +25,8 @@ hr{
 
 h1{
     color: #000000;
+}
+img{
+    width: 100px;
+    height: 40px;
 }
